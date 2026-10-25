@@ -52,10 +52,10 @@ function App() {
     <div className="min-h-screen bg-[#fffaf2] text-[#183b32]">
       <header className="sticky top-0 z-50 border-b border-emerald-950/10 bg-[#fffaf2]/95 backdrop-blur">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 sm:px-8">
-          <a href="#inicio" className="flex items-center gap-2" aria-label="Tequñolandia, inicio" onClick={closeMenu}>
+          <a href="#inicio" className="flex items-center gap-2" aria-label="Tequeñolandia, inicio" onClick={closeMenu}>
             <span className="grid h-10 w-10 place-items-center rounded-full bg-amber-400 text-xl" aria-hidden="true">✦</span>
             <span>
-              <span className="block text-lg font-black leading-tight tracking-tight">Tequñolandia</span>
+              <span className="block text-lg font-black leading-tight tracking-tight">Tequeñolandia</span>
               <span className="block text-[10px] font-medium tracking-widest text-emerald-900/65">UN BOCADO DE TRADICIÓN</span>
             </span>
           </a>
